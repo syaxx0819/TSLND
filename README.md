@@ -1,2 +1,2 @@
-# TSLND
-A Time-series Lung Nodule Dataset for Longitudinal Medical Image Analysis
+# TSMPND
+A Time-series Multi-Modal Pulmonary Nodule Dataset called TSMPND for Longitudinal Medical Image Analysis
